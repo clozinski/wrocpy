@@ -8,6 +8,11 @@ Wrocław Python Community
 
 Add links to your presentations using GitHub pull requests.
 
+### wroc.py #27
+
+1. Grok Object Publishing in Blogory, [the world's largest Python Directory]
+(http://Blogory.org/python),
+
 ### wroc.py #26
 
 1. mirakuru - czy można robić open source w ramach komercyjnych projektów? - Paweł Wilczyński & Grzegorz Śliwiński
